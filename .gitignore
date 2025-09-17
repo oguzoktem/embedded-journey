@@ -1,0 +1,20 @@
+# Build output
+Debug/
+Release/
+
+# IDE specific (Eclipse / CubeIDE)
+.settings/
+.vscode/
+.idea/
+*.launch
+
+# Build artifacts
+*.elf
+*.bin
+*.hex
+*.map
+*.log
+
+# OS junk files
+.DS_Store
+Thumbs.db
